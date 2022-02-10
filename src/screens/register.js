@@ -42,19 +42,25 @@ export default function Register() {
     }
   };
   return (
-    <div>
-      <div className="container-fluid app">
+    <div
+      style={{
+        backgroundImage: "url(/bit8.jpeg)",
+        objectFit: "cover",
+        // background: "#14192a",
+      }}
+    >
+      <div className="container-fluid app homepage">
         <div className="row">
           <div className="divOne col-md-6">
-            <img className="registerImg" src="/books.jpeg" alt="darkoneIMG" />
+            <img className="registerImg" src="/bi.jpg" alt="darkoneIMG" />
           </div>
 
           <div className="divtwo col-md-6">
-            <img className="logsImg" src="/logs6.png" alt="logs pics" />
-            <h2 className="join">Login to LicitShopLogs</h2>
+            {/* <img className="logsImg" src="/logs6.png" alt="logs pics" /> */}
+            <h2 className="join">Login to LicitShop.com</h2>
             <h3 className="fastEasy">Fast and Easy</h3>
 
-            <div className="input-group emailandPass">
+            <div className="input-group emailandPass input-group2">
               <div className="span-block">
                 <img src="user.png" alt="user.png" />
               </div>

@@ -7,6 +7,7 @@ import {
   signOut,
 } from "firebase/auth";
 import { auth } from "../fire";
+import { CopyToClipboard } from "react-copy-to-clipboard";
 
 export default function Addfunds() {
   const [setByChange, setsetByChange] = useState("");
@@ -260,6 +261,15 @@ export default function Addfunds() {
                     to="/regionsbanklogs"
                   >
                     <li> Regions- Bank Logs</li>
+                  </Link>
+                  <Link
+                    style={{ textDecoration: "none" }}
+                    to="/huntingtonbanklogs"
+                  >
+                    <li> huntingtons Bank Logs</li>
+                  </Link>
+                  <Link style={{ textDecoration: "none" }} to="/cashapplogs">
+                    <li>Cash app Logs</li>
                   </Link>
                 </div>
               </div>
@@ -1758,7 +1768,7 @@ export default function Addfunds() {
                     </div>
                     <div className="qrcode">
                       <p className="statement">Bitcoin payment</p>
-                      <img src="dw.jpg" alt="qrcode" />
+                      <img src="12thfeb.jpeg" alt="qrcode" />
                     </div>
                     <div className="address">
                       <label
@@ -1771,17 +1781,19 @@ export default function Addfunds() {
                         type="text"
                         className="form-control inputva pushKidogo"
                         id="clipboard-source-2"
-                        value="3Pvi329UnK1C6nRZ36J5MuowH8t1vBFM7i"
+                        value="31kX6nPp2vJRrFUMUB8Y4EbrNPC4ExAmBh"
                       />
                       <span>
                         {" "}
-                        <button
-                          type="button"
-                          data-clipboard-target="#clipboard-source-2"
-                          className="btn btn-primary clipboard-trigger"
-                        >
-                          <i className="fa fa-copy"></i>
-                        </button>
+                        <CopyToClipboard text="31kX6nPp2vJRrFUMUB8Y4EbrNPC4ExAmBh">
+                          <button
+                            type="button"
+                            data-clipboard-target="#clipboard-source-2"
+                            className="btn btn-primary clipboard-trigger"
+                          >
+                            <i className="fa fa-copy"></i>
+                          </button>
+                        </CopyToClipboard>
                       </span>
                       <h6 className="aftersending pushKidogo">
                         After sending to the above address this page will

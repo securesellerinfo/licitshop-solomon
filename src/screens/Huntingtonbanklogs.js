@@ -8,7 +8,7 @@ import {
 } from "firebase/auth";
 import { auth } from "../fire";
 
-export default function Bankwest() {
+export default function Huntingtonbanklogs() {
   const [accordionWidth, setAccordionWidth] = useState(true);
   const [accordionWidthSmall, setAccordionWidthSmall] = useState(true);
   const [showDisplay, setshowDisplay] = useState(false);
@@ -542,17 +542,16 @@ export default function Bankwest() {
               LOGOUT
             </h2>
           </div>
-
           <div
-            className="thirdSection with_tables col-md-8"
+            className="thirdSection with_tables col-md-8 col-sm-12"
             style={{ width: accordionWidth ? "1000px" : "1200px" }}
           >
             <div className="inner_div_table">
-              <div className="udpated">Bank of the west Logs</div>
+              <div className="udpated"> Huntington Bank Logs</div>
               <div className="goodForCC">
-                Bank of west logs This Log is Good for CC Top and wire
+                HuntingtonBank logs This Log is Good for CC Top and wire
               </div>
-              <div>
+              <div className="tableencosurediv">
                 <table className="table table-bordered table-responsive">
                   <thead>
                     <tr>
@@ -567,39 +566,13 @@ export default function Bankwest() {
                   </thead>
                   <tbody>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">huntington</th>
                       <td>LicitShopLogs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
                       </td>
-                      <td>$31,379.33</td>
-                      <td>290$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Bank of the west</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
-                      </td>
-                      <td>$33,847.00</td>
+                      <td>$31,979.33</td>
                       <td>300$</td>
                       <td>
                         <label className="badge badge-success blink_me">
@@ -619,14 +592,14 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">huntington</th>
                       <td>LicitShopLogs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
                       </td>
-                      <td>$33,538.77</td>
-                      <td>310$</td>
+                      <td>$33,736.00</td>
+                      <td>320$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -645,14 +618,14 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">huntington</th>
                       <td>LicitShopLogs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
                       </td>
-                      <td>$28,837.93</td>
-                      <td>289$</td>
+                      <td>$33,738.99</td>
+                      <td>370$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -671,14 +644,14 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">huntington</th>
                       <td>LicitShopLogs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
                       </td>
-                      <td>$28,883.99</td>
-                      <td>279$</td>
+                      <td>$28,847.93</td>
+                      <td>300$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -697,14 +670,14 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">huntington</th>
                       <td>LicitShopLogs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
                       </td>
-                      <td>$25,497.33</td>
-                      <td>240$</td>
+                      <td>$28,083.99</td>
+                      <td>300$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -723,39 +696,13 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">huntington</th>
                       <td>LicitShopLogs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
                       </td>
-                      <td>$25,763.99</td>
-                      <td>240$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Bank of the west</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
-                      </td>
-                      <td>$25,372.83</td>
+                      <td>$25,837.33</td>
                       <td>250$</td>
                       <td>
                         <label className="badge badge-success blink_me">
@@ -775,13 +722,117 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">huntington</th>
                       <td>LicitShopLogs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
                       </td>
-                      <td>$23,520.28</td>
+                      <td>$24,384.99</td>
+                      <td>250$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">huntington</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
+                      </td>
+                      <td>$24,383.83</td>
+                      <td>250$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">huntington</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
+                      </td>
+                      <td>$23,700.28</td>
+                      <td>230$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">huntington</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
+                      </td>
+                      <td>$23,038.99</td>
+                      <td>230$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">huntington</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
+                      </td>
+                      <td>$22,433.33</td>
                       <td>220$</td>
                       <td>
                         <label className="badge badge-success blink_me">
@@ -801,66 +852,14 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">huntington</th>
                       <td>LicitShopLogs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
-                      </td>
-                      <td>$23,551.99</td>
-                      <td>220$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Bank of the west</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
-                      </td>
-                      <td>$22,200.38</td>
-                      <td>210$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Bank of the west</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
                       </td>
                       <td>$20,000.00</td>
-                      <td>210$</td>
+                      <td>233$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -879,14 +878,66 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">huntington</th>
                       <td>LicitShopLogs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
                       </td>
                       <td>$18,540.00</td>
-                      <td>190$</td>
+                      <td>200$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">huntington</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
+                      </td>
+                      <td>$17,374.33</td>
+                      <td>200$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">huntington</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
+                      </td>
+                      <td>$17,374.3</td>
+                      <td>200$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available

@@ -49,12 +49,11 @@ export default function Details() {
       <div className="container-fluid app">
         <div className="row">
           <div className="divOne col-md-6">
-            <img className="registerImg" src="/books.jpeg" alt="darkoneIMG" />
+            <img className="registerImg" src="/bi.jpg" alt="darkoneIMG" />
           </div>
 
           <div className="divtwo col-md-6">
-            <img className="logsImg" src="/logs6.png" alt="logs pics" />
-            <h2 className="join">Login to LicitShopLogs</h2>
+            <h2 className="join">Login to LicitShop.com</h2>
             <h3 className="fastEasy">Fast and Easy</h3>
 
             <div className="input-group input-group2">

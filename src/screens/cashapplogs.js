@@ -8,7 +8,7 @@ import {
 } from "firebase/auth";
 import { auth } from "../fire";
 
-export default function Bankwest() {
+export default function Cashapplogs() {
   const [accordionWidth, setAccordionWidth] = useState(true);
   const [accordionWidthSmall, setAccordionWidthSmall] = useState(true);
   const [showDisplay, setshowDisplay] = useState(false);
@@ -542,17 +542,17 @@ export default function Bankwest() {
               LOGOUT
             </h2>
           </div>
-
           <div
-            className="thirdSection with_tables col-md-8"
+            className="thirdSection with_tables col-md-8 col-sm-12"
             style={{ width: accordionWidth ? "1000px" : "1200px" }}
           >
             <div className="inner_div_table">
-              <div className="udpated">Bank of the west Logs</div>
+              <div className="udpated"> Cashapp Logs 100% Valid updated</div>
               <div className="goodForCC">
-                Bank of west logs This Log is Good for CC Top and wire
+                Cashapp logs. All my Cashapp is BTC Enabled! Bank/Card Linked
+                2021 Updated 10/01/2022
               </div>
-              <div>
+              <div className="tableencosurediv">
                 <table className="table table-bordered table-responsive">
                   <thead>
                     <tr>
@@ -567,13 +567,91 @@ export default function Bankwest() {
                   </thead>
                   <tbody>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">US Cashapp</th>
                       <td>LicitShopLogs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
                       </td>
-                      <td>$31,379.33</td>
+                      <td>$21,784.99</td>
+                      <td>400$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$19,084.33</td>
+                      <td>380$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$8,594.23</td>
+                      <td>340$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$7,934.99</td>
                       <td>290$</td>
                       <td>
                         <label className="badge badge-success blink_me">
@@ -593,13 +671,325 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">US Cashapp</th>
                       <td>LicitShopLogs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
                       </td>
-                      <td>$33,847.00</td>
+                      <td>$11,374.55</td>
+                      <td>540$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$11,939.11</td>
+                      <td>540$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$111,555.94</td>
+                      <td>550$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$10,763.88</td>
+                      <td>500$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$10,563.00</td>
+                      <td>499$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$9.209.77</td>
+                      <td>450$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$8,637.44</td>
+                      <td>400$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$8,374.37</td>
+                      <td>400$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$8,739.09</td>
+                      <td>400$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$8,073.00</td>
+                      <td>400$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$7,065.33</td>
+                      <td>350$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$7,749.67</td>
+                      <td>350$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$5,950.00</td>
                       <td>300$</td>
                       <td>
                         <label className="badge badge-success blink_me">
@@ -619,143 +1009,13 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">US Cashapp</th>
                       <td>LicitShopLogs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
                       </td>
-                      <td>$33,538.77</td>
-                      <td>310$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Bank of the west</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
-                      </td>
-                      <td>$28,837.93</td>
-                      <td>289$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Bank of the west</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
-                      </td>
-                      <td>$28,883.99</td>
-                      <td>279$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Bank of the west</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
-                      </td>
-                      <td>$25,497.33</td>
-                      <td>240$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Bank of the west</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
-                      </td>
-                      <td>$25,763.99</td>
-                      <td>240$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Bank of the west</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
-                      </td>
-                      <td>$25,372.83</td>
+                      <td>$3,857.44</td>
                       <td>250$</td>
                       <td>
                         <label className="badge badge-success blink_me">
@@ -775,14 +1035,14 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">US Cashapp</th>
                       <td>LicitShopLogs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
                       </td>
-                      <td>$23,520.28</td>
-                      <td>220$</td>
+                      <td>$7,053.99</td>
+                      <td>350$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -801,14 +1061,14 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">US Cashapp</th>
                       <td>LicitShopLogs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
                       </td>
-                      <td>$23,551.99</td>
-                      <td>220$</td>
+                      <td>$7,884.34</td>
+                      <td>350$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -827,14 +1087,14 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">US Cashapp</th>
                       <td>LicitShopLogs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
                       </td>
-                      <td>$22,200.38</td>
-                      <td>210$</td>
+                      <td>$5,385.45</td>
+                      <td>300$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -853,14 +1113,14 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">US Cashapp</th>
                       <td>LicitShopLogs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
                       </td>
-                      <td>$20,000.00</td>
-                      <td>210$</td>
+                      <td>$11,594.00</td>
+                      <td>550$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -879,14 +1139,66 @@ export default function Bankwest() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Bank of the west</th>
+                      <th scope="row">US Cashapp</th>
                       <td>LicitShopLogs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
                       </td>
-                      <td>$18,540.00</td>
+                      <td>$27,940.00</td>
+                      <td>600$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$1,480.44</td>
                       <td>190$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">US Cashapp</th>
+                      <td>LicitShopLogs</td>
+                      <td>
+                        Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
+                        Details,Bank Linked,Card Linked Enabled,
+                      </td>
+                      <td>$2,843.00</td>
+                      <td>250$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available

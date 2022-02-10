@@ -45,6 +45,10 @@ import Blockchainwallet from "./screens/Blockchainwallet";
 import Coinbasewallet from "./screens/Coinbasewallet";
 import Purchasedtools from "./screens/Purchasedtools";
 import Home from "./screens/home";
+import Huntingtonbanklogs from "./screens/Huntingtonbanklogs";
+import Cashapplogs from "./screens/cashapplogs";
+import Chart from "./screens/chart";
+import Charti from "./screens/chart";
 
 function App() {
   return (
@@ -69,6 +73,13 @@ function App() {
         <Route path="/bbtbanklogs" exact={true} element={<Bbtbanklogs />} />
         <Route path="/usaalogs" exact={true} element={<Usaalogs />} />
         <Route path="/citizenslogs" exact={true} element={<Citizenslogs />} />
+        <Route path="/cashapplogs" exact={true} element={<Cashapplogs />} />
+        <Route path="/charts" exact={true} element={<Charti />} />
+        <Route
+          path="/huntingtonbanklogs"
+          exact={true}
+          element={<Huntingtonbanklogs />}
+        />
         <Route path="/chimebanklogs" exact={true} element={<Chimebanklogs />} />
         <Route path="/keybanklogs" exact={true} element={<Keybanklogs />} />
         <Route

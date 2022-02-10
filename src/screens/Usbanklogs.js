@@ -260,6 +260,15 @@ export default function Usbanklogs() {
                   >
                     <li> Regions- Bank Logs</li>
                   </Link>
+                  <Link
+                    style={{ textDecoration: "none" }}
+                    to="/huntingtonbanklogs"
+                  >
+                    <li> huntingtons Bank Logs</li>
+                  </Link>
+                  <Link style={{ textDecoration: "none" }} to="/cashapplogs">
+                    <li>Cash app Logs</li>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -572,10 +581,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -593,10 +607,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -614,10 +633,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -635,10 +659,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -656,10 +685,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -677,10 +711,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -698,10 +737,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -719,10 +763,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -740,10 +789,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -761,10 +815,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -782,10 +841,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -803,10 +867,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                     <tr>
@@ -824,10 +893,15 @@ export default function Usbanklogs() {
                         </label>
                       </td>
                       <td>
-                        <button className="tablePurchased">
-                          <i class="fa fa-shopping-cart" aria-hidden="true"></i>{" "}
-                          Purchase
-                        </button>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
                       </td>
                     </tr>
                   </tbody>

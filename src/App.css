@@ -2,6 +2,15 @@
   width: 100%;
   background: #14192a;
 }
+.licitshop {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .coinbase {
   width: 99% !important;
 }
@@ -12,7 +21,7 @@
 img.registerImg {
   width: 100%;
   height: 100vh;
-  object-fit: fill;
+  object-fit: cover;
 }
 img.logsImg {
   width: 50%;
@@ -26,6 +35,7 @@ img.logsImg {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 .join {
   font-size: 26px;
@@ -76,8 +86,7 @@ img.logsImg {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  margin-left: 0px;
-  margin-right: 155px;
+  /* margin-left: 0px; */
 }
 .loginButton {
   margin-top: 15px;
@@ -90,7 +99,7 @@ img.logsImg {
   text-decoration: none;
   cursor: pointer;
   border-radius: 0;
-  width: 100%;
+  width: 90%;
   height: 50px;
   background-image: linear-gradient(100deg, #0096ff, #3254ff);
   font-family: Exo, sans-serif;
@@ -98,10 +107,11 @@ img.logsImg {
   font-weight: 700;
   text-align: center;
   text-transform: uppercase;
+  /* margin-left: 10%; */
 }
-.divtwo .input-group {
+/* .divtwo .input-group {
   margin-left: 100px !important;
-}
+} */
 .input-group2 {
   margin-top: 10px;
 }
@@ -743,7 +753,7 @@ input.readonlynumber {
   align-items: center;
 }
 .qrcode img {
-  width: 100%;
+  width: 70%;
 }
 .statement {
   font-size: 32px;
@@ -765,6 +775,7 @@ input.inputva {
   position: absolute !important;
   right: 2%;
   top: 15%;
+  cursor: pointer;
 }
 
 .aftersending {
@@ -810,7 +821,7 @@ img.waringimgicon {
 }
 .input-group {
   width: 90% !important;
-  margin-left: 10%;
+  /* margin-left: 10%; */
 }
 .btcdropdown {
   margin-top: -15px;
@@ -1018,9 +1029,9 @@ img.waringimgicon {
   }
 }
 @media only screen and (max-width: 540px) {
-  .divtwo .input-group {
+  /* .divtwo .input-group {
     margin-left: 125px !important;
-  }
+  } */
   .greetings::before {
     content: "" !important;
     height: 15px !important;
@@ -1042,11 +1053,14 @@ img.waringimgicon {
   }
   .divtwo {
     height: 100vh;
+    background-image: url("../public/bit10.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
   }
 
   .input-group {
-    width: 90% !important;
-    margin-left: 35%;
+    width: 100% !important;
+    /* margin-left: 35%; */
   }
   img.logsImg {
     width: 50%;

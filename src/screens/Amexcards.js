@@ -261,6 +261,15 @@ export default function Amexcards() {
                   >
                     <li> Regions- Bank Logs</li>
                   </Link>
+                  <Link
+                    style={{ textDecoration: "none" }}
+                    to="/huntingtonbanklogs"
+                  >
+                    <li> huntingtons Bank Logs</li>
+                  </Link>
+                  <Link style={{ textDecoration: "none" }} to="/cashapplogs">
+                    <li>Cash app Logs</li>
+                  </Link>
                 </div>
               </div>
             </div>

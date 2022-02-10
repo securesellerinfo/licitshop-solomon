@@ -260,6 +260,15 @@ export default function Coinbase() {
                   >
                     <li> Regions- Bank Logs</li>
                   </Link>
+                  <Link
+                    style={{ textDecoration: "none" }}
+                    to="/huntingtonbanklogs"
+                  >
+                    <li> huntingtons Bank Logs</li>
+                  </Link>
+                  <Link style={{ textDecoration: "none" }} to="/cashapplogs">
+                    <li>Cash app Logs</li>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -698,7 +707,7 @@ export default function Coinbase() {
                 <div className="third2two">
                   <div className="latestTools">
                     {" "}
-                    <b className="btext">Latest tools Added 23-12-2021</b>
+                    <b className="btext">Latest tools Added 15-01-2022</b>
                   </div>
                   <div className="Added_items">
                     <ul>
