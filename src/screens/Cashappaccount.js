@@ -23,12 +23,12 @@ export default function Cashappaccount() {
     <div>
       <div
         className="cointainer-fluid coinbase"
-        style={{ width: accordionWidth ? "99%" : "100%" }}
+        style={{ width: accordionWidth ? "100%" : "100%" }}
       >
         <div className="row">
           <header className="header-content">
             <div className="imgHam">
-              <Link to="/coinbase">
+              <Link to="/applebank">
                 {" "}
                 <img
                   className="coinbaseLogo"
@@ -188,7 +188,7 @@ export default function Cashappaccount() {
             id="accordionExample"
             style={{ width: accordionWidth ? "18%" : "0", marginTop: "100px" }}
           >
-            <Link to="/coinbase" style={{ textDecoration: "none" }}>
+            <Link to="/applebank" style={{ textDecoration: "none" }}>
               {" "}
               <h2 className="mb-0 homeLogout">
                 <i className="fa fa-home" aria-hidden="true"></i> HOME{" "}

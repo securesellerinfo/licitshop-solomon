@@ -16,6 +16,7 @@ export default function Addfunds() {
   const [showDisplay, setshowDisplay] = useState(false);
   const [showDisplaysc, setshowDisplaysc] = useState(false);
   const [showDisplaysc2, setshowDisplaysc2] = useState(false);
+  const [showCopied, setShowCopied] = useState(false);
   const navigate = useNavigate();
   const logout = async () => {
     await signOut(auth);
@@ -30,7 +31,7 @@ export default function Addfunds() {
         <div className="row">
           <header className="header-content">
             <div className="imgHam">
-              <Link to="/coinbase">
+              <Link to="/applebank">
                 {" "}
                 <img
                   className="coinbaseLogo"
@@ -190,7 +191,7 @@ export default function Addfunds() {
             id="accordionExample"
             style={{ width: accordionWidth ? "18%" : "0", marginTop: "100px" }}
           >
-            <Link to="/coinbase" style={{ textDecoration: "none" }}>
+            <Link to="/applebank" style={{ textDecoration: "none" }}>
               {" "}
               <h2 className="mb-0 homeLogout">
                 <i className="fa fa-home" aria-hidden="true"></i> HOME{" "}
@@ -1768,7 +1769,7 @@ export default function Addfunds() {
                     </div>
                     <div className="qrcode">
                       <p className="statement">Bitcoin payment</p>
-                      <img src="12thfeb.jpeg" alt="qrcode" />
+                      <img src="19thmarch.jpeg" alt="qrcode" />
                     </div>
                     <div className="address">
                       <label
@@ -1781,19 +1782,30 @@ export default function Addfunds() {
                         type="text"
                         className="form-control inputva pushKidogo"
                         id="clipboard-source-2"
-                        value="31kX6nPp2vJRrFUMUB8Y4EbrNPC4ExAmBh"
+                        value="3JHeHfHL7ZAJxewgGS6HbvXZA9yQkiNWuP"
                       />
-                      <span>
+                      <span className="copybtnHolder">
                         {" "}
-                        <CopyToClipboard text="31kX6nPp2vJRrFUMUB8Y4EbrNPC4ExAmBh">
+                        <CopyToClipboard text="3JHeHfHL7ZAJxewgGS6HbvXZA9yQkiNWuP">
                           <button
                             type="button"
                             data-clipboard-target="#clipboard-source-2"
                             className="btn btn-primary clipboard-trigger"
+                            onClick={() => {
+                              setShowCopied(true);
+                            }}
                           >
                             <i className="fa fa-copy"></i>
                           </button>
                         </CopyToClipboard>
+                        <label
+                          className="badge badge-success copied"
+                          style={{
+                            visibility: showCopied ? "visible" : "hidden",
+                          }}
+                        >
+                          Copied!
+                        </label>
                       </span>
                       <h6 className="aftersending pushKidogo">
                         After sending to the above address this page will

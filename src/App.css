@@ -263,11 +263,14 @@ h2.homeLogout {
   color: #3f6ad8;
   background: #e0f3ff;
 }
-
+.copied {
+  margin-left: 89%;
+}
 .thirdSection {
   margin-top: 60px !important;
   /* width: 1000px !important; */
   background: #f5f5f5;
+  /* background: #121212; */
   overflow-x: scroll;
 }
 .divChild {

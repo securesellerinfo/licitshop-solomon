@@ -49,6 +49,7 @@ import Huntingtonbanklogs from "./screens/Huntingtonbanklogs";
 import Cashapplogs from "./screens/cashapplogs";
 import Chart from "./screens/chart";
 import Charti from "./screens/chart";
+import Test from "./test";
 
 function App() {
   return (
@@ -57,7 +58,7 @@ function App() {
       <Routes>
         <Route path="/" exact={true} element={<Home />} />
         <Route path="/register" exact={true} element={<Details />} />
-        <Route path="/coinbase" exact={true} element={<Coinbase />} />
+        {/* <Route path="/coinbase" exact={true} element={<Coinbase />} /> */}
         <Route path="/Addfunds" exact={true} element={<Addfunds />} />
         <Route path="/support" exact={true} element={<Support />} />
         <Route path="/applebank" exact={true} element={<Applebank />} />
@@ -102,6 +103,7 @@ function App() {
         <Route path="/texaspua" exact={true} element={<TexasPua />} />
         <Route path="/texasfuliz" exact={true} element={<Texasfuliz />} />
         <Route path="/illionspua" exact={true} element={<Illionspua />} />
+        <Route path="/try" exact={true} element={<Test />} />
         <Route
           path="/purchasedtools"
           exact={true}

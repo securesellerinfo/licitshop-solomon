@@ -28,7 +28,7 @@ export default function Paypalaccount() {
         <div className="row">
           <header className="header-content">
             <div className="imgHam">
-              <Link to="/coinbase">
+              <Link to="/applebank">
                 {" "}
                 <img
                   className="coinbaseLogo"
@@ -188,7 +188,7 @@ export default function Paypalaccount() {
             id="accordionExample"
             style={{ width: accordionWidth ? "18%" : "0", marginTop: "100px" }}
           >
-            <Link to="/coinbase" style={{ textDecoration: "none" }}>
+            <Link to="/applebank" style={{ textDecoration: "none" }}>
               {" "}
               <h2 className="mb-0 homeLogout">
                 <i className="fa fa-home" aria-hidden="true"></i> HOME{" "}

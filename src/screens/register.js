@@ -34,7 +34,7 @@ export default function Register() {
       const user = await signInWithEmailAndPassword(auth, email, password);
       console.log(user);
       if (user) {
-        navigate("/coinbase");
+        navigate("/applebank");
       }
     } catch (error) {
       console.log(error.message);
