@@ -1,6 +1,6 @@
 .app {
   width: 100%;
-  background: #14192a;
+  background-color: #1c1d26;
 }
 .licitshop {
   width: 100%;
@@ -13,6 +13,7 @@
 
 .coinbase {
   width: 99% !important;
+  background-color: #1c1d26;
 }
 :-webkit-scrollbar-thumb {
   background: #507299;
@@ -144,7 +145,8 @@ img.coinbaseLogo {
   z-index: 10;
   display: flex;
   justify-content: space-between;
-  background: #fff;
+  background-color: #1c1d26;
+  border-bottom: 1px solid #f7d3dc;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 1px -1px rgba(0, 0, 0, 0.2),
     0 1px 2px 0 rgba(0, 0, 0, 0.12);
 }
@@ -168,14 +170,17 @@ img.coinbaseLogo {
 }
 .badge-dangere {
   color: #fff;
-  background: #d92550;
+  background: transparent;
   font-weight: bold;
   text-transform: uppercase;
+  box-shadow: inset 0 0 0 1px rgb(255 255 255 / 30%);
   padding: 5px 10px;
   min-width: 19px;
   margin-right: 10px;
   cursor: pointer;
   display: inline-block;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out,
+    box-shadow 0.2s ease-in-out;
   padding: 0.25em 0.4em;
   font-size: 100%;
   font-weight: 700;
@@ -185,11 +190,18 @@ img.coinbaseLogo {
   vertical-align: baseline;
   border-radius: 0.25rem;
 }
+.badge-dangere:hover {
+  color: #e44c65 !important;
+  background: transparent;
+  box-shadow: inset 0 0 0 1px #e44c65;
+}
 .fa-arrow-down {
   cursor: pointer;
+  color: #fff;
 }
 img.usericonImg {
   cursor: pointer;
+  background-color: #fff;
 }
 .menu ul {
   list-style-type: none;
@@ -203,6 +215,7 @@ img.usericonImg {
   height: 100vh;
   position: sticky;
   top: 90px;
+  background-color: #1c1d26;
   /* background: #fff; */
 
   border: none !important;
@@ -211,28 +224,34 @@ img.usericonImg {
     0 1px 2px 0 rgba(0, 0, 0, 0.12);
 }
 .card {
-  background: white !important;
+  /* background: white !important; */
+  background-color: #1c1d26 !important;
   border: none !important;
 }
 .card-header {
-  background-color: #fff !important;
+  /* background-color: #fff !important; */
+  background-color: #1c1d26 !important;
 }
 
 .card-header h2 button {
-  color: #000000;
+  /* color: #000000; */
+  color: #ffffff;
   text-decoration: none;
   width: 100%;
   text-align: left;
-  background: #fff;
+  /* background: #fff; */
+  background-color: #1c1d26;
   font-size: 14px;
 }
 
 h2.homeLogout {
-  color: #000000;
+  /* color: #000000; */
+  color: #ffffff;
   text-decoration: none;
   width: 100%;
   text-align: left;
-  background: #fff;
+  /* background: #fff; */
+  background-color: #1c1d26;
   font-size: 14px;
   margin-left: 28px;
   padding-top: 15px;
@@ -269,7 +288,8 @@ h2.homeLogout {
 .thirdSection {
   margin-top: 60px !important;
   /* width: 1000px !important; */
-  background: #f5f5f5;
+  /* background: #f5f5f5; */
+  background-color: #272833;
   /* background: #121212; */
   overflow-x: scroll;
 }
@@ -359,6 +379,7 @@ div.c1 {
 .c3 h3 {
   position: relative;
 }
+
 .greetings::before {
   content: "" !important;
   height: 15px !important;
@@ -446,7 +467,8 @@ div.c1 {
   z-index: 1000;
 }
 .welcomeLem {
-  background: #16aaff;
+  /* background: #16aaff; */
+  background-color: #272833;
   font-size: 14px;
   width: 100%;
   height: 70px;
@@ -464,6 +486,7 @@ div.c1 {
   height: 70px;
   display: flex;
   align-items: center;
+  background-color: #1c1d26;
   color: #ffffff;
   margin-top: 0;
   font-weight: bold;
@@ -499,11 +522,12 @@ div.c1 {
   display: flex;
   align-items: center;
   justify-content: center;
+  background: #272833;
 }
 .logoutBtn button {
   padding: 4px 16px;
   color: #ffffff;
-  background: #3f6ad8;
+  background: transparent;
   border-color: #3f6ad8;
   font-size: 0.8rem;
   line-height: 1.5;
@@ -511,16 +535,18 @@ div.c1 {
 }
 .logoutBtn button:hover {
   color: #fff;
-  background-color: #2955c8;
+  background-color: transparent;
+  color: #e44c65;
 }
 .with_tables {
-  color: #fff;
+  color: #ffff;
   padding: 50px;
 }
 .inner_div_table {
   /* width: 90%; */
   margin-left: 40px;
-  background: #ffffff;
+  /* background: #ffffff; */
+  background-color: #272833;
   padding: 20px;
 }
 
@@ -528,9 +554,11 @@ div.c1 {
   width: 50% !important;
 }
 .udpated {
-  color: #1e6641;
-  background-color: #d8f3e5;
-  border-color: #c8eedb;
+  color: #ffffff;
+  /* color: #1e6641; */
+  /* background-color: #d8f3e5; */
+  background-color: #1c1d26;
+  border-color: #1e6641 !important;
   position: relative;
   padding: 0.75rem 1.25rem;
   margin-bottom: 1rem;
@@ -539,9 +567,11 @@ div.c1 {
   font-size: 14px;
 }
 .goodForCC {
-  color: #71132a;
-  background-color: #f7d3dc;
-  border-color: #f4c2ce;
+  color: #ffffff;
+  /* color: #71132a; */
+  /* background-color: #f7d3dc; */
+  background-color: #1c1d26;
+  border-color: #71132a !important;
   position: relative;
   padding: 0.75rem 1.25rem;
   margin-bottom: 1rem;
@@ -550,18 +580,25 @@ div.c1 {
   font-size: 14px;
   font-weight: bold;
 }
+.table {
+  border: 1px solid #f7d3dc !important;
+}
 
 .table th {
-  color: #6c757d;
+  color: #ffffff;
   font-size: 14px;
   background-color: #f8f9fa;
   padding: 8.8px;
+  /* border: 1px solid #f7d3dc !important;
+  border-bottom: 1px solid #f7d3dc !important; */
+  border: 2px solid #f7d3dc !important;
 }
 td {
-  border: 1px solid #e9ecef;
+  border: 1px solid #f7d3dc !important;
   box-sizing: border-box;
 
-  color: #000;
+  /* color: #000; */
+  color: #ffff;
 
   font-size: 14px;
   vertical-align: middle !important;
@@ -574,8 +611,13 @@ th {
   text-align: center !important;
 }
 button.tablePurchased {
-  background: #16aaff;
+  /* background: #16aaff; */
+  background: transparent;
+  box-shadow: inset 0 0 0 1px rgb(255 255 255 / 30%);
   padding: 4px 15px;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out,
+    box-shadow 0.2s ease-in-out;
+
   color: #ffffff;
   cursor: pointer;
   font-size: 14px;
@@ -588,9 +630,9 @@ button.tablePurchased {
   align-items: center;
 }
 button.tablePurchased:hover {
-  color: #fff;
-  background-color: #0098ef;
-  border-color: #0090e2;
+  color: #e44c65 !important;
+  background: transparent;
+  box-shadow: inset 0 0 0 1px #e44c65;
 }
 
 .blink_me {
@@ -625,25 +667,28 @@ button.tablePurchased:hover {
 }
 .subjectLabel {
   margin-top: 55px !important;
-  color: #000 !important;
+  color: #fff !important;
 }
 .sendTicket {
   margin-top: 15px;
   color: #fff;
   padding: 1px 6px;
+  background: transparent !important;
 }
 .addfundsPage {
   color: red;
 }
 .out1 {
   height: 150px;
-  background: #3f6ad8;
+  background: #1c1d26;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #ffff;
+  color: #3f6ad8;
   flex-direction: column;
   font: 20px;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 1px -1px rgba(0, 0, 0, 0.2),
+    0 1px 2px 0 rgba(0, 0, 0, 0.12);
 }
 .avatorimgDiv {
   height: 70px !important;
@@ -679,11 +724,11 @@ button.tablePurchased:hover {
 }
 .calc {
   font-size: 14px;
-  color: #444054;
+  color: #fff;
   margin: 2px 0px 0px;
 }
 .btcrate {
-  color: #000000;
+  color: #fff;
   font-size: 14px;
   font-weight: bold;
   opacity: 0.7;
@@ -694,7 +739,7 @@ button.tablePurchased:hover {
 }
 
 .pnma {
-  color: #343a40;
+  color: #fff;
   font-size: 14px;
 }
 .threethings {
@@ -715,26 +760,31 @@ input.readonlynumber {
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
 .confirmation {
-  background: #fff;
+  background: #272833;
   padding-bottom: 20px;
 }
 .fiatselect {
   width: 70px !important;
 }
 .automaticPayment {
-  background: #fff;
+  /* background: #fff; */
+  background: #495057;
+  color: #ffffff;
 }
 .offers {
   margin-top: 50px;
-  color: #000000;
+  color: #fff;
   opacity: 0.8;
-  background: #fff;
+  background: #1c1d26;
   font-weight: bold;
   padding: 15px !important;
   position: relative;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 1px -1px rgba(0, 0, 0, 0.2),
+    0 1px 2px 0 rgba(0, 0, 0, 0.12);
 }
 .addfundspage {
-  background: #f5f5f5;
+  /* background: #f5f5f5; */
+  background-color: #272833;
 }
 .offers11 {
   color: #f7b924;
@@ -744,7 +794,7 @@ input.readonlynumber {
   bottom: 10%;
 }
 .require {
-  background: #3f6ad8;
+  background: #1c1d26;
   color: white;
   padding: 15px 10px;
   font-size: 1.5rem;
@@ -754,13 +804,14 @@ input.readonlynumber {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #272833;
 }
 .qrcode img {
   width: 70%;
 }
 .statement {
   font-size: 32px;
-  color: #000000;
+  color: #fff;
   margin: 0px 0px 8px;
 }
 input.inputva {
@@ -768,28 +819,32 @@ input.inputva {
 }
 .to_this_adddress {
   font-size: 14px;
-  color: #000000;
+  /* color: #000000; */
+  color: #fff;
   margin: 0px 0px 8px;
 }
 .address {
   position: relative;
+  background-color: #272833;
 }
 .clipboard-trigger {
   position: absolute !important;
   right: 2%;
-  top: 15%;
+  top: 13%;
   cursor: pointer;
 }
 
 .aftersending {
-  color: #000000;
+  /* color: #000000; */
+  color: #fff;
   opacity: 0.7;
 }
 .closePage {
   margin: 20px 10px 8px;
   font-size: 20px;
   opacity: 0.7;
-  color: #000000;
+  /* color: #000000; */
+  color: #fff;
   padding-left: 30px;
 }
 img.waringimgicon {
@@ -800,11 +855,13 @@ img.waringimgicon {
   display: flex;
   align-items: center;
   justify-content: center;
+  background: #272833;
 }
 .paymentnotcomplete {
   display: flex;
   justify-content: center;
   align-content: center;
+  background-color: #272833;
 }
 .dangerofnotpayment {
   width: 90% !important;
@@ -886,11 +943,11 @@ img.waringimgicon {
     transition: all 0.5s ease;
   }
   h2.homeLogout {
-    color: #000000;
+    color: #fff;
     text-decoration: none;
     width: 100%;
     text-align: left;
-    background: #fff;
+    background: #1c1d26;
     font-size: 14px;
     margin-left: 10px;
     padding-top: 15px;
@@ -919,7 +976,7 @@ img.waringimgicon {
     transition: opacity 0.5 ease;
     width: 350px;
 
-    background-color: #fff;
+    background-color: #272833;
     background-clip: padding-box;
     border: 1px solid rgba(0, 0, 0, 0.15);
     border-radius: 5px;
@@ -928,17 +985,20 @@ img.waringimgicon {
     left: -40%;
     z-index: 1000;
   }
+  .arrowDsc {
+    color: #1c1c1c !important;
+  }
   .profilehideShowsc {
     position: absolute;
     top: 25%;
     left: 5%;
   }
   .addBalsmc {
-    background: red;
+    background: transparent;
     left: 0px;
     top: 10%;
     width: 65%;
-    background: #ffff;
+    background: #fff;
     padding-left: 25%;
     position: absolute;
     transition: all 0.2s;
@@ -1017,7 +1077,7 @@ img.waringimgicon {
     right: 50%;
     width: 50% !important;
     height: 100% !important;
-    background: #fff;
+    background: #1c1d26;
 
     z-index: 100;
     transition: all 0.5s ease;
@@ -1084,7 +1144,7 @@ img.waringimgicon {
     right: 38%;
     width: 70% !important;
     height: 100% !important;
-    background: #fff;
+    background: #1c1d26;
     z-index: 100;
     transition: all 0.5s ease;
     z-index: 100000;
@@ -1165,7 +1225,7 @@ img.waringimgicon {
   }
   .inner_div_table {
     margin-left: 0px;
-    background: #ffffff;
+    background-color: #272833;
     overflow-x: scroll;
     padding: 20px;
   }
@@ -1173,16 +1233,18 @@ img.waringimgicon {
     overflow-x: scroll;
   }
   .table th {
-    color: #6c757d;
+    color: #ffffff;
+    font-size: 14px;
+    background-color: #f8f9fa;
     font-size: 12px;
     background-color: #f8f9fa;
     padding: 8.8px;
+    border: 1px solid #f7d3dc !important;
   }
   td {
-    border: 1px solid #e9ecef;
+    border: 1px solid #1c1d26;
     box-sizing: border-box;
-
-    color: #000;
+    color: #ffff;
 
     font-size: 12px;
     vertical-align: middle !important;
@@ -1195,11 +1257,16 @@ img.waringimgicon {
     text-align: center !important;
   }
   button.tablePurchased {
-    background: #16aaff;
+    /* background: #16aaff; */
+    background: transparent;
+    box-shadow: inset 0 0 0 1px rgb(255 255 255 / 30%);
     padding: 4px 15px;
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out,
+      box-shadow 0.2s ease-in-out;
+
     color: #ffffff;
     cursor: pointer;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 500;
     line-height: 1.5;
     border-radius: 0.2rem;

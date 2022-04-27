@@ -32,7 +32,7 @@ export default function WesternAccount() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function WesternAccount() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -569,7 +573,7 @@ export default function WesternAccount() {
                   <tbody>
                     <tr>
                       <th scope="row">WesternUnion</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>Full Name Country,City Phone Number</td>
                       <td>$3,000</td>
                       <td>300$</td>
@@ -592,7 +596,7 @@ export default function WesternAccount() {
                     </tr>
                     <tr>
                       <th scope="row">WesternUnion</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>Full Name Country,City Phone Number</td>
                       <td>$2500</td>
                       <td>250$</td>
@@ -615,7 +619,7 @@ export default function WesternAccount() {
                     </tr>
                     <tr>
                       <th scope="row">WesternUnion</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>Full Name Country,City Phone Number</td>
                       <td>$2,000</td>
                       <td>200$</td>
@@ -638,7 +642,7 @@ export default function WesternAccount() {
                     </tr>
                     <tr>
                       <th scope="row">WesternUnion</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>Full Name Country,City Phone Number</td>
                       <td>$1500</td>
                       <td>150$</td>

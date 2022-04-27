@@ -32,7 +32,7 @@ export default function Newyorkpua() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Newyorkpua() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -569,7 +573,7 @@ export default function Newyorkpua() {
                   <tbody>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -596,7 +600,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -623,7 +627,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -650,7 +654,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -677,7 +681,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -704,7 +708,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -731,7 +735,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -758,7 +762,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -785,7 +789,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -812,7 +816,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -839,7 +843,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -866,7 +870,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -893,7 +897,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -920,7 +924,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -947,7 +951,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -974,7 +978,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1001,7 +1005,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1028,7 +1032,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1055,7 +1059,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1082,7 +1086,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1109,7 +1113,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1136,7 +1140,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1163,7 +1167,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1190,7 +1194,7 @@ export default function Newyorkpua() {
                     </tr>
                     <tr>
                       <th scope="row">New York PUA</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN

@@ -218,6 +218,10 @@ export default function Cashappaccount() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -568,21 +572,25 @@ export default function Cashappaccount() {
                   </thead>
                   <tbody>
                     <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
                       </td>
-                      <td>$21,784.99</td>
-                      <td>400$</td>
+                      <td>$4,853.57</td>
+                      <td>484$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
                         </label>
                       </td>
                       <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
                           <button className="tablePurchased">
                             <i
                               class="fa fa-shopping-cart"
@@ -594,21 +602,25 @@ export default function Cashappaccount() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
                       </td>
-                      <td>$19,084.33</td>
-                      <td>380$</td>
+                      <td>$1,254.64</td>
+                      <td>100$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
                         </label>
                       </td>
                       <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$100", balance: "$1,254.64" }}
+                        >
                           <button className="tablePurchased">
                             <i
                               class="fa fa-shopping-cart"
@@ -620,21 +632,25 @@ export default function Cashappaccount() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
                       </td>
-                      <td>$8,594.23</td>
-                      <td>340$</td>
+                      <td>$1,632.75</td>
+                      <td>150$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
                         </label>
                       </td>
                       <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$150", balance: "$1,632.75" }}
+                        >
                           <button className="tablePurchased">
                             <i
                               class="fa fa-shopping-cart"
@@ -646,21 +662,25 @@ export default function Cashappaccount() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
                       </td>
-                      <td>$7,934.99</td>
-                      <td>290$</td>
+                      <td>$1,883.53</td>
+                      <td>180$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
                         </label>
                       </td>
                       <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$180", balance: "$1,883.53" }}
+                        >
                           <button className="tablePurchased">
                             <i
                               class="fa fa-shopping-cart"
@@ -672,21 +692,25 @@ export default function Cashappaccount() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
                       </td>
-                      <td>$11,374.55</td>
-                      <td>540$</td>
+                      <td>$2,165.53</td>
+                      <td>230$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
                         </label>
                       </td>
                       <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$203", balance: "$2,165.53" }}
+                        >
                           <button className="tablePurchased">
                             <i
                               class="fa fa-shopping-cart"
@@ -698,21 +722,25 @@ export default function Cashappaccount() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
                       </td>
-                      <td>$11,939.11</td>
-                      <td>540$</td>
+                      <td>$2,523.48</td>
+                      <td>240$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
                         </label>
                       </td>
                       <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$240", balance: "$2,523.48" }}
+                        >
                           <button className="tablePurchased">
                             <i
                               class="fa fa-shopping-cart"
@@ -724,21 +752,25 @@ export default function Cashappaccount() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
                       </td>
-                      <td>$11,939.11</td>
-                      <td>540$</td>
+                      <td>$2,755.00</td>
+                      <td>263$</td>
                       <td>
-                        <label className="badge badge-success blink_me">
-                          Available
+                        <label className="badge badge-danger blink_me">
+                          sold out
                         </label>
                       </td>
                       <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$263", balance: "$2,755.00" }}
+                        >
                           <button className="tablePurchased">
                             <i
                               class="fa fa-shopping-cart"
@@ -750,352 +782,13 @@ export default function Cashappaccount() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
                       </td>
-                      <td>$11,555.94</td>
-                      <td>550$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$10,563.00</td>
-                      <td>490$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$8,637.44</td>
-                      <td>400$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$8,739.09</td>
-                      <td>400$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$8,073.00</td>
-                      <td>400$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$7,065.33</td>
-                      <td>350$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$5,950.00</td>
-                      <td>300$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$3,857.44</td>
-                      <td>250$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$7,053.99</td>
-                      <td>350$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$7,884.34</td>
-                      <td>350$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$5,385.45</td>
-                      <td>300$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$11,594.00</td>
-                      <td>550$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$27,940.00</td>
-                      <td>6000$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
-                      </td>
-                      <td>$1,480.44</td>
+                      <td>$10,736.88</td>
                       <td>190$</td>
                       <td>
                         <label className="badge badge-success blink_me">
@@ -1103,7 +796,11 @@ export default function Cashappaccount() {
                         </label>
                       </td>
                       <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$190", balance: "$10,736.88" }}
+                        >
                           <button className="tablePurchased">
                             <i
                               class="fa fa-shopping-cart"
@@ -1115,21 +812,265 @@ export default function Cashappaccount() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
-                        Address, Acct&Rn license NO,ZelleON Wire Enabled
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
                       </td>
-                      <td>$2,843.00</td>
-                      <td>250$</td>
+                      <td>$3,027.01</td>
+                      <td>299$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$299", balance: "$3,027.01" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
+                      <td>
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
+                      </td>
+                      <td>$3,163.56</td>
+                      <td>310$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
                         </label>
                       </td>
                       <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$310", balance: "$3,163.56" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
+                      <td>
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
+                      </td>
+                      <td>$3,674.90</td>
+                      <td>350$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$350", balance: "$3,674.90" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
+                      <td>
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
+                      </td>
+                      <td>$3,900.43</td>
+                      <td>380$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$380", balance: "$3,900.43" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
+                      <td>
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
+                      </td>
+                      <td>$3,674.90</td>
+                      <td>350$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$350", balance: "$3,674.90" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
+                      <td>
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
+                      </td>
+                      <td>$4,117.86</td>
+                      <td>324$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$240", balance: "$2,523.48" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
+                      <td>
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
+                      </td>
+                      <td>$4,684.35</td>
+                      <td>450$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$450", balance: "$4,684.35" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
+                      <td>
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
+                      </td>
+                      <td>$4,853.57</td>
+                      <td>484$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$484", balance: "$4,853.57" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Cashapp</th>
+                      <td>Logstoore Logs</td>
+                      <td>
+                        Cash app BTC enable, fully verified, email access, Max
+                        transaction limit per day is high
+                      </td>
+                      <td>$5,024.42</td>
+                      <td>498$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$498", balance: "$5,024.42" }}
+                        >
                           <button className="tablePurchased">
                             <i
                               class="fa fa-shopping-cart"

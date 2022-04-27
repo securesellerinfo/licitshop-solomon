@@ -32,7 +32,7 @@ export default function Illionspua() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Illionspua() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -570,7 +574,7 @@ export default function Illionspua() {
                   <tbody>
                     <tr>
                       <th scope="row">Illions Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -599,7 +603,7 @@ export default function Illionspua() {
                     </tr>
                     <tr>
                       <th scope="row">Illions Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -628,7 +632,7 @@ export default function Illionspua() {
                     </tr>
                     <tr>
                       <th scope="row">Illions Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -657,7 +661,7 @@ export default function Illionspua() {
                     </tr>
                     <tr>
                       <th scope="row">Illions Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -686,7 +690,7 @@ export default function Illionspua() {
                     </tr>
                     <tr>
                       <th scope="row">Illions Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -715,7 +719,7 @@ export default function Illionspua() {
                     </tr>
                     <tr>
                       <th scope="row">Illions Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -744,7 +748,7 @@ export default function Illionspua() {
                     </tr>
                     <tr>
                       <th scope="row">Illions Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -773,7 +777,7 @@ export default function Illionspua() {
                     </tr>
                     <tr>
                       <th scope="row">Illions Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -802,7 +806,7 @@ export default function Illionspua() {
                     </tr>
                     <tr>
                       <th scope="row">Illions Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -831,7 +835,7 @@ export default function Illionspua() {
                     </tr>
                     <tr>
                       <th scope="row">Illions Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -860,7 +864,7 @@ export default function Illionspua() {
                     </tr>
                     <tr>
                       <th scope="row">Illions Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN

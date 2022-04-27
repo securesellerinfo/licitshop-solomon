@@ -32,7 +32,7 @@ export default function Fifththirdlogs() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Fifththirdlogs() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -567,7 +571,7 @@ export default function Fifththirdlogs() {
                   <tbody>
                     <tr>
                       <th scope="row">fifth third Logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Gender,Ssn,
                         Address,Acct&Rn license No Wire Enabled Zelle On
@@ -594,7 +598,7 @@ export default function Fifththirdlogs() {
                     </tr>
                     <tr>
                       <th scope="row">fifth third Logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Gender,Ssn,
                         Address,Acct&Rn license No Wire Enabled Zelle On
@@ -622,7 +626,7 @@ export default function Fifththirdlogs() {
 
                     <tr>
                       <th scope="row">fifth third Logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Gender,Ssn,
                         Address,Acct&Rn license No Wire Enabled Zelle On
@@ -649,7 +653,7 @@ export default function Fifththirdlogs() {
                     </tr>
                     <tr>
                       <th scope="row">fifth third Logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Gender,Ssn,
                         Address,Acct&Rn license No Wire Enabled Zelle On
@@ -676,7 +680,7 @@ export default function Fifththirdlogs() {
                     </tr>
                     <tr>
                       <th scope="row">fifth third Logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Gender,Ssn,
                         Address,Acct&Rn license No Wire Enabled Zelle On
@@ -703,7 +707,7 @@ export default function Fifththirdlogs() {
                     </tr>
                     <tr>
                       <th scope="row">fifth third Logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Gender,Ssn,
                         Address,Acct&Rn license No Wire Enabled Zelle On
@@ -730,7 +734,7 @@ export default function Fifththirdlogs() {
                     </tr>
                     <tr>
                       <th scope="row">fifth third Logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Gender,Ssn,
                         Address,Acct&Rn license No Wire Enabled Zelle On

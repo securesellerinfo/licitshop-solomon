@@ -32,7 +32,7 @@ export default function Shopwithscrip() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Shopwithscrip() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -568,7 +572,7 @@ export default function Shopwithscrip() {
                   <tbody>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -594,7 +598,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -620,7 +624,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -646,7 +650,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -672,7 +676,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -698,7 +702,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -724,7 +728,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -750,7 +754,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -776,7 +780,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -802,7 +806,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -828,7 +832,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -854,7 +858,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -880,7 +884,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -906,7 +910,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -932,7 +936,7 @@ export default function Shopwithscrip() {
                     </tr>
                     <tr>
                       <th scope="row">Shopwithscrip</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access

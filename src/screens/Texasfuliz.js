@@ -32,7 +32,7 @@ export default function Texasfuliz() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Texasfuliz() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                   <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -567,7 +571,7 @@ export default function Texasfuliz() {
                   <tbody>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -594,7 +598,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -621,7 +625,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -648,7 +652,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -675,7 +679,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -702,7 +706,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -729,7 +733,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -756,7 +760,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -783,7 +787,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -810,7 +814,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -837,7 +841,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -864,7 +868,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -891,7 +895,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -918,7 +922,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -945,7 +949,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -972,7 +976,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -999,7 +1003,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -1026,7 +1030,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -1053,7 +1057,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -1080,7 +1084,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -1107,7 +1111,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -1134,7 +1138,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -1161,7 +1165,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,
@@ -1188,7 +1192,7 @@ export default function Texasfuliz() {
                     </tr>
                     <tr>
                       <th scope="row">Texas FULLZ</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Full Name Date of Birth, Full Name, Ssn, MMN DL No,

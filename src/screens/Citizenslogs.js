@@ -32,7 +32,7 @@ export default function Citizenslogs() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Citizenslogs() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -568,7 +572,7 @@ export default function Citizenslogs() {
                   <tbody>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -594,7 +598,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -620,7 +624,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -646,7 +650,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -672,7 +676,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -698,7 +702,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -724,7 +728,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -750,7 +754,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -776,7 +780,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -802,7 +806,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -828,7 +832,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -854,7 +858,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -880,7 +884,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -906,7 +910,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -932,7 +936,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable
@@ -958,7 +962,7 @@ export default function Citizenslogs() {
                     </tr>
                     <tr>
                       <th scope="row">Citizen</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enable

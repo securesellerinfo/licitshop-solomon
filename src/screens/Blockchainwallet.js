@@ -32,7 +32,7 @@ export default function Blockchainwallet() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Blockchainwallet() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -570,7 +574,7 @@ export default function Blockchainwallet() {
                   <tbody>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -597,7 +601,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -624,7 +628,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -651,7 +655,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -678,7 +682,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -705,7 +709,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -732,7 +736,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -759,7 +763,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -786,7 +790,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -813,7 +817,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -840,7 +844,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -867,7 +871,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -894,7 +898,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -921,7 +925,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -948,7 +952,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -975,7 +979,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -1002,7 +1006,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -1029,7 +1033,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -1056,7 +1060,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -1083,7 +1087,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -1110,7 +1114,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -1137,7 +1141,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -1164,7 +1168,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank
@@ -1191,7 +1195,7 @@ export default function Blockchainwallet() {
                     </tr>
                     <tr>
                       <th scope="row">Blockchain</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access,Wallet ID, Cookies System Ip Location Bank

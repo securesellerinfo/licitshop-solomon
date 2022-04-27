@@ -35,7 +35,7 @@ export default function Addfunds() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -221,6 +221,10 @@ export default function Addfunds() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -1769,7 +1773,7 @@ export default function Addfunds() {
                     </div>
                     <div className="qrcode">
                       <p className="statement">Bitcoin payment</p>
-                      <img src="19thmarch.jpeg" alt="qrcode" />
+                      <img src="april13th.jpeg" alt="qrcode" />
                     </div>
                     <div className="address">
                       <label
@@ -1782,11 +1786,11 @@ export default function Addfunds() {
                         type="text"
                         className="form-control inputva pushKidogo"
                         id="clipboard-source-2"
-                        value="3JHeHfHL7ZAJxewgGS6HbvXZA9yQkiNWuP"
+                        value="328HhotMWgkpowPLJ2FRH9d8CRJHjfMGoJ"
                       />
                       <span className="copybtnHolder">
                         {" "}
-                        <CopyToClipboard text="3JHeHfHL7ZAJxewgGS6HbvXZA9yQkiNWuP">
+                        <CopyToClipboard text="328HhotMWgkpowPLJ2FRH9d8CRJHjfMGoJ">
                           <button
                             type="button"
                             data-clipboard-target="#clipboard-source-2"
@@ -1830,7 +1834,7 @@ export default function Addfunds() {
                     <div className="paymentnotcomplete">
                       <div className="alert alert-danger dangerofnotpayment">
                         Payment not yet completed ! If you sent the money don't
-                        close this page until the transaction registred !
+                        close this page until the transaction registers !
                       </div>
                     </div>
                   </div>

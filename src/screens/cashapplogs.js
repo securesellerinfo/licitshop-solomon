@@ -32,7 +32,7 @@ export default function Cashapplogs() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Cashapplogs() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -568,7 +572,7 @@ export default function Cashapplogs() {
                   <tbody>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -594,7 +598,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -620,7 +624,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -646,7 +650,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -672,7 +676,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -698,7 +702,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -724,7 +728,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -750,7 +754,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -776,7 +780,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -802,7 +806,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -828,7 +832,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -854,7 +858,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -880,7 +884,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -906,7 +910,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -932,7 +936,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -958,7 +962,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -984,7 +988,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -1010,7 +1014,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -1036,7 +1040,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -1062,7 +1066,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -1088,7 +1092,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -1114,7 +1118,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -1140,7 +1144,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -1166,7 +1170,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,
@@ -1192,7 +1196,7 @@ export default function Cashapplogs() {
                     </tr>
                     <tr>
                       <th scope="row">US Cashapp</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Email Access Direct Log in, Cookies,Gender,Ssn, Pin,Card
                         Details,Bank Linked,Card Linked Enabled,

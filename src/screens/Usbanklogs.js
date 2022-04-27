@@ -32,7 +32,7 @@ export default function Usbanklogs() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Usbanklogs() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -568,7 +572,7 @@ export default function Usbanklogs() {
                   <tbody>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -594,7 +598,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -620,7 +624,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -646,7 +650,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -672,7 +676,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -698,7 +702,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -724,7 +728,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -750,7 +754,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -776,7 +780,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -802,7 +806,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -828,7 +832,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -854,7 +858,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled
@@ -880,7 +884,7 @@ export default function Usbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">USBank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON Wire Enabled

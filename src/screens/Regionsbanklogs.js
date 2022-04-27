@@ -32,7 +32,7 @@ export default function Regionsbanklogs() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Regionsbanklogs() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -571,7 +575,7 @@ export default function Regionsbanklogs() {
                   <tbody>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -597,7 +601,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -623,7 +627,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -649,7 +653,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -675,7 +679,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -701,7 +705,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -727,7 +731,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -753,7 +757,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -779,7 +783,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -805,7 +809,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -831,7 +835,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -857,7 +861,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -883,7 +887,7 @@ export default function Regionsbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">Region bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON

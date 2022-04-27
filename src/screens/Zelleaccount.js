@@ -32,7 +32,7 @@ export default function Zelleaccount() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Zelleaccount() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -568,7 +572,7 @@ export default function Zelleaccount() {
                   <tbody>
                     <tr>
                       <th scope="row">Zelle logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -594,7 +598,7 @@ export default function Zelleaccount() {
                     </tr>
                     <tr>
                       <th scope="row">Zelle logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -620,7 +624,7 @@ export default function Zelleaccount() {
                     </tr>
                     <tr>
                       <th scope="row">Zelle logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -646,7 +650,7 @@ export default function Zelleaccount() {
                     </tr>
                     <tr>
                       <th scope="row">Zelle logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -672,7 +676,7 @@ export default function Zelleaccount() {
                     </tr>
                     <tr>
                       <th scope="row">Zelle logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -698,7 +702,7 @@ export default function Zelleaccount() {
                     </tr>
                     <tr>
                       <th scope="row">Zelle logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -724,7 +728,7 @@ export default function Zelleaccount() {
                     </tr>
                     <tr>
                       <th scope="row">Zelle logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access
@@ -750,7 +754,7 @@ export default function Zelleaccount() {
                     </tr>
                     <tr>
                       <th scope="row">Zelle logs</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, Full Name,State & City
                         Zipcode,Presstopay PIN, Bank Linked,Full Access

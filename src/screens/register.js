@@ -34,7 +34,7 @@ export default function Register() {
       const user = await signInWithEmailAndPassword(auth, email, password);
       console.log(user);
       if (user) {
-        navigate("/applebank");
+        navigate("/Chasebank");
       }
     } catch (error) {
       console.log(error.message);
@@ -57,7 +57,7 @@ export default function Register() {
 
           <div className="divtwo col-md-6">
             {/* <img className="logsImg" src="/logs6.png" alt="logs pics" /> */}
-            <h2 className="join">Login to LicitShop.com</h2>
+            <h2 className="join">Login to Logsstoore</h2>
             <h3 className="fastEasy">Fast and Easy</h3>
 
             <div className="input-group emailandPass input-group2">

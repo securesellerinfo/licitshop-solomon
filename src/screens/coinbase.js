@@ -218,6 +218,10 @@ export default function Coinbase() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -563,17 +567,17 @@ export default function Coinbase() {
                     </h5>
                   </div>
                   <div className="divChild c2">
-                    <h5>Welcome to LicitShopLogs!</h5>
+                    <h5>Welcome to Logsstoore Logs!</h5>
                     <p>
-                      Rules & Refund Policy General Rules LicitShopLogs provides
-                      service as is. By registering you automatically agree with
-                      all our rules.
+                      Rules & Refund Policy General Rules Logsstoore Logs
+                      provides service as is. By registering you automatically
+                      agree with all our rules.
                       <br />
                       <br />
                       We accept only blockchain-based payment methods (Bitcoin,
                       DASH, etc.). We do not provide moneyback from user account
-                      balance. LicitShopLogs is not a bank – you can spend your
-                      balance only inside the shop.
+                      balance. Logsstoore Logs is not a bank – you can spend
+                      your balance only inside the shop.
                     </p>
                     <p> MINIMUM DEPOSIT SHOULD BE $100 OR MORE </p>
                     <button className="saveloginDetails">
@@ -589,7 +593,7 @@ export default function Coinbase() {
                       on 40% more sales and about 4% only refunded.
                       <br />
                       <br />
-                      LicitShopLogs is since 2015 and we are very serious we
+                      Logsstoore Logs is since 2015 and we are very serious we
                       won't let our users and sellers down.
                       <br />
                       <br />
@@ -611,7 +615,7 @@ export default function Coinbase() {
                       phone, DOB, SSN, etc. NOTE! Bank logs are Updated Daily
                       <br />
                       <br />
-                      Rating System LicitShopLogs uses a special rating system
+                      Rating System Logsstoore Logs uses a special rating system
                       for its clients to prevent abuse of our service and
                       provide privileges for loyal and honest partners with a
                       proven record. Regards, LicitShop Staff.
@@ -674,7 +678,7 @@ export default function Coinbase() {
                       <br />
                       Kind Regards,
                       <br />
-                      LicitShopLogs Admins.
+                      Logsstoore Logs Admins.
                       <br />
                     </p>
                   </div>
@@ -691,10 +695,10 @@ export default function Coinbase() {
                     The only way to contact us is from our tickets system. You
                     can join our newly created official channel in Telegram for
                     updates the old channel has been pined we are not accepting
-                    new member anymore! Support@LicitShopLogs.com{" "}
+                    new member anymore! Support@Logsstoore Logs.com{" "}
                   </h5>
                   <center>
-                    <a href="https://t.me/LicitShopLogs" target="_blank">
+                    <a href="https://t.me/Logsstoore Logs" target="_blank">
                       <img
                         className="telegramImage"
                         src="/jointelegram.png"

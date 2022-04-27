@@ -53,7 +53,7 @@ export default function Details() {
           </div>
 
           <div className="divtwo col-md-6">
-            <h2 className="join">Login to LicitShop.com</h2>
+            <h2 className="join">Login to Logsstoore</h2>
             <h3 className="fastEasy">Fast and Easy</h3>
 
             <div className="input-group input-group2">

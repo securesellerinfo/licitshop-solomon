@@ -32,7 +32,7 @@ export default function Coinbasewallet() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Coinbasewallet() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -569,7 +573,7 @@ export default function Coinbasewallet() {
                   <tbody>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -596,7 +600,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -623,7 +627,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -650,7 +654,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -677,7 +681,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -704,7 +708,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -731,7 +735,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -758,7 +762,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -785,7 +789,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -812,7 +816,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -839,7 +843,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -866,7 +870,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -893,7 +897,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -920,7 +924,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card
@@ -947,7 +951,7 @@ export default function Coinbasewallet() {
                     </tr>
                     <tr>
                       <th scope="row">USA Coinbase</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Email Access, Cookies System Ip Location Bank & Card

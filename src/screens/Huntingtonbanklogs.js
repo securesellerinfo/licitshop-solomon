@@ -32,7 +32,7 @@ export default function Huntingtonbanklogs() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Huntingtonbanklogs() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -567,7 +571,7 @@ export default function Huntingtonbanklogs() {
                   <tbody>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -593,7 +597,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -619,7 +623,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -645,7 +649,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -671,7 +675,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -697,7 +701,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -723,7 +727,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -749,7 +753,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -775,7 +779,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -801,7 +805,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -827,7 +831,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -853,7 +857,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -879,7 +883,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -905,7 +909,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON
@@ -931,7 +935,7 @@ export default function Huntingtonbanklogs() {
                     </tr>
                     <tr>
                       <th scope="row">huntington</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address PhoneNO,Card Details,Acct&Rn license NO,ZelleON

@@ -8,7 +8,7 @@ import {
 } from "firebase/auth";
 import { auth } from "../fire";
 
-export default function Chimebanklogs() {
+export default function ChaseBank() {
   const [accordionWidth, setAccordionWidth] = useState(true);
   const [accordionWidthSmall, setAccordionWidthSmall] = useState(true);
   const [showDisplay, setshowDisplay] = useState(false);
@@ -188,7 +188,7 @@ export default function Chimebanklogs() {
             id="accordionExample"
             style={{ width: accordionWidth ? "18%" : "0", marginTop: "100px" }}
           >
-            <Link to="/applebank" style={{ textDecoration: "none" }}>
+            <Link to="applebank" style={{ textDecoration: "none" }}>
               {" "}
               <h2 className="mb-0 homeLogout">
                 <i className="fa fa-home" aria-hidden="true"></i> HOME{" "}
@@ -552,9 +552,9 @@ export default function Chimebanklogs() {
             style={{ width: accordionWidth ? "1000px" : "1200px" }}
           >
             <div className="inner_div_table">
-              <div className="udpated">Chime Logs </div>
+              <div className="udpated">Chase Bank Logs updated 23/12/2021</div>
               <div className="goodForCC">
-                Chime logs This Log is Good for all possible work
+                Chase Bank logs This Log is Good for CC Top and wire
               </div>
               <div>
                 <table className="table table-bordered table-responsive">
@@ -571,14 +571,14 @@ export default function Chimebanklogs() {
                   </thead>
                   <tbody>
                     <tr>
-                      <th scope="row">Chime Logs</th>
+                      <th scope="row">Chase Bank</th>
                       <td>Logsstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
                       </td>
-                      <td>$21,736.32</td>
-                      <td>390$</td>
+                      <td>$31,979.33</td>
+                      <td>300$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -597,14 +597,14 @@ export default function Chimebanklogs() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Chime Logs</th>
+                      <th scope="row">Chase Bank</th>
                       <td>Logsstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
                       </td>
-                      <td>$20,387.23</td>
-                      <td>400$</td>
+                      <td>$33,736.00</td>
+                      <td>320$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -623,14 +623,14 @@ export default function Chimebanklogs() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Chime Logs</th>
+                      <th scope="row">Chase Bank</th>
                       <td>Logsstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
                       </td>
-                      <td>$17,357.02</td>
-                      <td>340$</td>
+                      <td>$33,738.99</td>
+                      <td>370$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -649,14 +649,14 @@ export default function Chimebanklogs() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Chime Logs</th>
+                      <th scope="row">Chase Bank</th>
                       <td>Logsstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
                       </td>
-                      <td>$21,172.10</td>
-                      <td>390$</td>
+                      <td>$28,847.93</td>
+                      <td>300$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -675,14 +675,14 @@ export default function Chimebanklogs() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Chime Logs</th>
+                      <th scope="row">Chase Bank</th>
                       <td>Logsstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
                       </td>
-                      <td>$10,838.00</td>
-                      <td>290$</td>
+                      <td>$28,083.99</td>
+                      <td>300$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -701,65 +701,13 @@ export default function Chimebanklogs() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Chime Logs</th>
+                      <th scope="row">Chase Bank</th>
                       <td>Logsstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
                       </td>
-                      <td>$7,000.00</td>
-                      <td>240$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Chime Logs</th>
-                      <td>Logsstoore Logs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
-                      </td>
-                      <td>$7,000.00</td>
-                      <td>240$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Chime Logs</th>
-                      <td>Logsstoore Logs</td>
-                      <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
-                      </td>
-                      <td>$7,000.00</td>
+                      <td>$25,837.33</td>
                       <td>250$</td>
                       <td>
                         <label className="badge badge-success blink_me">
@@ -779,14 +727,14 @@ export default function Chimebanklogs() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Chime Logs</th>
+                      <th scope="row">Chase Bank</th>
                       <td>Logsstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
                       </td>
-                      <td>$3,483.32</td>
-                      <td>270$</td>
+                      <td>$24,384.99</td>
+                      <td>250$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -805,13 +753,143 @@ export default function Chimebanklogs() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Chime Logs</th>
+                      <th scope="row">Chase Bank</th>
                       <td>Logsstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
                       </td>
-                      <td>$2,000.00</td>
+                      <td>$24,383.83</td>
+                      <td>250$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Chase Bank</th>
+                      <td>Logsstoore Logs</td>
+                      <td>
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
+                      </td>
+                      <td>$23,700.28</td>
+                      <td>230$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Chase Bank</th>
+                      <td>Logsstoore Logs</td>
+                      <td>
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
+                      </td>
+                      <td>$23,038.99</td>
+                      <td>230$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Chase Bank</th>
+                      <td>Logsstoore Logs</td>
+                      <td>
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
+                      </td>
+                      <td>$22,433.33</td>
+                      <td>220$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Chase Bank</th>
+                      <td>Logsstoore Logs</td>
+                      <td>
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
+                      </td>
+                      <td>$20,000.00</td>
+                      <td>233$</td>
+                      <td>
+                        <label className="badge badge-success blink_me">
+                          Available
+                        </label>
+                      </td>
+                      <td>
+                        <Link to="/addfunds" style={{ textDecoration: "none" }}>
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Chase Bank</th>
+                      <td>Logsstoore Logs</td>
+                      <td>
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
+                      </td>
+                      <td>$18,540.00</td>
                       <td>200$</td>
                       <td>
                         <label className="badge badge-success blink_me">
@@ -831,14 +909,14 @@ export default function Chimebanklogs() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Chime Logs</th>
+                      <th scope="row">Chase Bank</th>
                       <td>Logsstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
                       </td>
-                      <td>$1,000.00</td>
-                      <td>100$</td>
+                      <td>$17,374.33</td>
+                      <td>200$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -857,14 +935,14 @@ export default function Chimebanklogs() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Chime Logs</th>
+                      <th scope="row">Chase Bank</th>
                       <td>Logsstoore Logs</td>
                       <td>
-                        Online Access,Email Access, DOB,Cookies,Gender,Ssn,
-                        Address,Acct&Rn license No
+                        Online access, Email Access, Questions and answers, card
+                        information and owner's fullz info
                       </td>
-                      <td>$1,999.93</td>
-                      <td>110$</td>
+                      <td>$17,374.3</td>
+                      <td>200$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available

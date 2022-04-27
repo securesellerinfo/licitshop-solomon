@@ -50,6 +50,7 @@ import Cashapplogs from "./screens/cashapplogs";
 import Chart from "./screens/chart";
 import Charti from "./screens/chart";
 import Test from "./test";
+import ChaseBank from "./screens/chase";
 
 function App() {
   return (
@@ -104,6 +105,7 @@ function App() {
         <Route path="/texasfuliz" exact={true} element={<Texasfuliz />} />
         <Route path="/illionspua" exact={true} element={<Illionspua />} />
         <Route path="/try" exact={true} element={<Test />} />
+        <Route path="/Chasebank" exact={true} element={<ChaseBank />} />
         <Route
           path="/purchasedtools"
           exact={true}

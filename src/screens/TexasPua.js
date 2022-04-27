@@ -32,7 +32,7 @@ export default function TexasPua() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function TexasPua() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                   <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -569,7 +573,7 @@ export default function TexasPua() {
                   <tbody>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -598,7 +602,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -627,7 +631,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -656,7 +660,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -685,7 +689,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -714,7 +718,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -743,7 +747,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -772,7 +776,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -801,7 +805,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -830,7 +834,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -859,7 +863,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -888,7 +892,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -917,7 +921,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -946,7 +950,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -975,7 +979,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1004,7 +1008,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1033,7 +1037,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1062,7 +1066,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1091,7 +1095,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1120,7 +1124,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1149,7 +1153,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1178,7 +1182,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN
@@ -1207,7 +1211,7 @@ export default function TexasPua() {
                     </tr>
                     <tr>
                       <th scope="row">Texas Pua</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         {" "}
                         Username/Password Date of Birth, Full Name, Ssn, MMN

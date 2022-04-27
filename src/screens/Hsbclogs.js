@@ -32,7 +32,7 @@ export default function Hsbclogs() {
                 {" "}
                 <img
                   className="coinbaseLogo"
-                  src="/logs.png"
+                  src="/binary.jpg"
                   alt="headerLogos"
                 />
               </Link>
@@ -218,6 +218,10 @@ export default function Hsbclogs() {
                 data-parent="#accordionExample"
               >
                 <div className="card-body">
+                  <Link style={{ textDecoration: "none" }} to="/Chasebank">
+                    {" "}
+                    <li>Chase Bank</li>
+                  </Link>
                   <Link style={{ textDecoration: "none" }} to="/applebank">
                     {" "}
                     <li>Apple Bank</li>
@@ -567,7 +571,7 @@ export default function Hsbclogs() {
                   <tbody>
                     <tr>
                       <th scope="row">Hsbc bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
@@ -593,7 +597,7 @@ export default function Hsbclogs() {
                     </tr>
                     <tr>
                       <th scope="row">Hsbc bank</th>
-                      <td>LicitShopLogs</td>
+                      <td>Logsstoore Logs</td>
                       <td>
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
